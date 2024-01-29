@@ -1,0 +1,9 @@
+header {background-color: brown; height: 50px; width: 100%;}
+nav{display: flex;}
+ul{display: flex; gap: 30px;}
+li{display: inline}
+li a{text-decoration: none; color: blanchedalmond;}
+li a:hover{color: blueviolet;}
+#hero{padding-top: 20px; display: flex; gap: 20px;}
+#services{display: flex; }
+a{text-decoration: none; color: blanchedalmond;}
